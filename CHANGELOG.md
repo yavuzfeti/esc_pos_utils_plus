@@ -1,3 +1,7 @@
+## [2.0.4]
+
+* add width 72 mm support
+
 ## [2.0.3]
 
 - support flutter v 3.13.0
